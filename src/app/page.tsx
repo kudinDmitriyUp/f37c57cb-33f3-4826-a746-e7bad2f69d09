@@ -47,6 +47,10 @@ export default function LandingPage() {
         },
       ]}
       brandName="Diki Flowers"
+      button={{
+        text: "Contact Us",
+        href: "#contact",
+      }}
     />
   </div>
 
